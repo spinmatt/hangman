@@ -2093,6 +2093,8 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    margin-bottom: 30px;
+
 
 }
 #secretWord {
@@ -2102,6 +2104,8 @@ img{
     text-align:center;
     padding-right:10px;
     font-size:40px;
+    margin-bottom: 30px;
+
 }
 #alphabet {
     display:block;
@@ -2112,6 +2116,8 @@ img{
     font-size:30px;
     font-style:bold;
     font:"Arial";
+    margin-bottom: 30px;
+
 }
 #Solve {
     background-color: #4CAF50; /* Green */
@@ -2168,7 +2174,7 @@ img{
 }
 
 h1 {
-  margin: 0;
+  margin-bottom: 30px;
   padding: 0;
   border: 0;
   font: "Times New Roman";
